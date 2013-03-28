@@ -10,8 +10,8 @@ Gem::Specification.new do |gem|
   gem.version       = Iprocessor::VERSION
   gem.authors       = ['Moin Haidar']
   gem.email         = ['moinhaidar@gmail.com']
-  gem.description   = %q{ Ruby Wrapper for Card Reader API }
-  gem.summary       = %q{ Ruby Wrapper for Card Reader API }
+  gem.description   = %q{ Ruby Wrapper for Card Reader API aiming to read and process driving license, barcode, passport, medical card etc for counties like US, Australia, Canada, Asia, Europse and Africa for supported states. }
+  gem.summary       = %q{ Ruby Wrapper for Card Reader API aiming to read and process driving license, barcode, passport, medical card etc for counties like US, Australia, Canada, Asia, Europse and Africa for supported states. }
   gem.homepage      = ''
 
   # ensures that any files tracked in the git repo will be included.  

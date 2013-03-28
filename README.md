@@ -1,6 +1,6 @@
 # Iprocessor
 
-TODO: Write a gem description
+Ruby Wrapper for Card Reader API aiming to read and process driving license, barcode, passport, medical card etc for counties like US, Australia, Canada, Asia, Europse and Africa for supported states.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Catch Me
 
 ## Contributing
 
